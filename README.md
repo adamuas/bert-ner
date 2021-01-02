@@ -1,2 +1,2 @@
-# BERTNER Using BERT for NER Recognition
+# BERTNER Using BERT for NER 
 NER using BERT
