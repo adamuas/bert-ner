@@ -1,2 +1,2 @@
-# BERTNER Using BERT for NER 
+# BERTNER Using BERT for NER (WIP)
 NER using BERT
